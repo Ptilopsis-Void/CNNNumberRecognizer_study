@@ -1,0 +1,26 @@
+# Python caches and tooling
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and IDE settings
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Downloaded datasets and generated artifacts
+data/*
+!data/.gitkeep
+artifacts/models/*
+!artifacts/models/.gitkeep
+artifacts/plots/*
+!artifacts/plots/.gitkeep
+
+# Operating-system files
+.DS_Store
+Thumbs.db
