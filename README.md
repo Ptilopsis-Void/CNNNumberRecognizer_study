@@ -1,5 +1,6 @@
 # Support
-如果觉得这个项目有用或对你有启发的话请给一颗⭐️，不胜感激
+如果觉得这个项目有用或对你有启发的话请给一颗⭐️，不胜感激。
+
 If you find this project useful, please leave a ⭐️ for me. Thank you very much.
 
 # 基于 CNN 的手写数字识别
